@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+	
+	It initializes a directory as a repository which creates the hidden .git 
+	subdirectory and associated files needed for tracking changes to a git repository.
+	
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+	It contains the files that will be committed to the repository.  The working directory
+	may contain other files which will not be included in the commit.
+	
