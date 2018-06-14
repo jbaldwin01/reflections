@@ -26,3 +26,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	The commits from one branch are combined with the commits of the other branch.
 	To show which branch has been merged into the other.
+	
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Automatic merging saves time when merges have no conflicts. 
